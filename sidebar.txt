@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ctu:home|Door43 (ctu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ctu|d43-ctu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ctu/archive/master.zip|d43-ctu.zip]]
+
+**Recent Changes**
+{{changes>ns = ctu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ctu|Ethnologue data]]
+
